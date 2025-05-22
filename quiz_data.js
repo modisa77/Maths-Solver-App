@@ -1,0 +1,1 @@
+const quizData = { algebra: [] }; // Replace with real data
